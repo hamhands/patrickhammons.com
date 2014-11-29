@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello! My name is Patrick Hammons! I like to drink coffee. When I do, it looks like this:
 
-<img src="/img/goodIdea.jpg" width="75%"/>
+<img src="./img/goodIdea.jpg" width="75%"/>
 
 In 2015, I will be a Code for America fellow working with the City of Pittsburgh. I used to do GIS work for the City of Philadelphia. I **really** love Philadelphia. 
 
