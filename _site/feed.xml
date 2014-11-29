@@ -4,10 +4,10 @@
     <title>Hamhanded.ly</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://hamhands.github.io//</link>
-    <atom:link href="http://hamhands.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Nov 2014 17:56:00 -0500</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2014 17:56:00 -0500</lastBuildDate>
+    <link>http://hamhands.github.io/hamhanded.ly/</link>
+    <atom:link href="http://hamhands.github.io/hamhanded.ly/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 29 Nov 2014 17:59:12 -0500</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2014 17:59:12 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -25,8 +25,8 @@
 &lt;p&gt;So JFDI, stop asking for permission, &lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Nov 2014 08:41:30 -0500</pubDate>
-        <link>http://hamhands.github.io//learning/2014/11/28/embracing-idiocy.html</link>
-        <guid isPermaLink="true">http://hamhands.github.io//learning/2014/11/28/embracing-idiocy.html</guid>
+        <link>http://hamhands.github.io/hamhanded.ly/learning/2014/11/28/embracing-idiocy.html</link>
+        <guid isPermaLink="true">http://hamhands.github.io/hamhanded.ly/learning/2014/11/28/embracing-idiocy.html</guid>
         
         
         <category>learning</category>
