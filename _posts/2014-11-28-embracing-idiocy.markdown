@@ -2,7 +2,7 @@
 layout: post
 title:  "Embracing Idiocy"
 date:   2014-11-28 13:41:30
-categories: learning
+tags: feels
 ---
 
 Let me begin with the following admission: **I'm sort of an idiot.**
