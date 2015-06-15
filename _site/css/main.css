@@ -11,12 +11,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Merriweather Sans, sans-serif;
+  font-family: Lato, sans-serif;
   font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
-  color: #052544;
-  background-color: #fdfdfd;
+  color: #000;
+  background-color: #FFFDFD;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -71,7 +71,7 @@ a {
   color: #D36247;
   text-decoration: none; }
   a:hover {
-    color: #052544;
+    color: #000;
     text-decoration: underline; }
 
 /**
@@ -150,6 +150,7 @@ pre {
 .site-header {
   min-height: 56px;
   text-align: center;
+  font-size: 24px;
   position: relative; }
   @media screen and (max-width: 600px) {
     .site-header {
@@ -157,56 +158,25 @@ pre {
 
 .site-title {
   margin-bottom: 0px;
-  font-size: 10vw; }
+  font-size: 6vw; }
 
 .site-nav {
-  float: center;
-  line-height: 56px; }
-  .site-nav .menu-icon {
-    display: none; }
+  float: left;
+  line-height: 56px;
+  font-size: 24px; }
   .site-nav .page-link {
-    color: #052544;
+    color: #D36247;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
-      margin-left: 20px; }
+      margin-left: 30px; }
   @media screen and (max-width: 600px) {
     .site-nav {
-      position: absolute;
-      top: 9px;
-      right: 30px;
-      background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
-      border-radius: 5px;
-      text-align: right; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #424242; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px; } }
+      background-color: #FFFDFD;
+      font-size: 18px; } }
 
 /**
  * Site footer
  */
-.site-footer {
-  padding: 30px 0; }
-
 .footer-heading {
   font-size: 18px;
   margin-bottom: 15px; }
