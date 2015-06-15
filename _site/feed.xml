@@ -4,19 +4,11 @@
     <title>Hamhanded.ly</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-<<<<<<< HEAD
     <link>http://hamhands.github.io/</link>
     <atom:link href="http://hamhands.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Nov 2014 19:17:28 -0500</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2014 19:17:28 -0500</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-=======
-    <link>http://hamhanded.ly/</link>
-    <atom:link href="http://hamhanded.ly/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Jun 2015 11:37:00 -0700</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2015 11:37:00 -0700</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2015 10:23:02 -0700</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2015 10:23:02 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
->>>>>>> master
     
       <item>
         <title>Hey look at this map</title>
@@ -26,21 +18,13 @@
 
 &lt;p&gt;Yeah definitely a map.&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Fri, 28 Nov 2014 08:41:30 -0500</pubDate>
-        <link>http://hamhands.github.io/2014/11/28/embracing-idiocy.html</link>
-        <guid isPermaLink="true">http://hamhands.github.io/2014/11/28/embracing-idiocy.html</guid>
-        
-        <category>feels</category>
-=======
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
-        <link>http://hamhanded.ly/2014/01/01/this-post.html</link>
-        <guid isPermaLink="true">http://hamhanded.ly/2014/01/01/this-post.html</guid>
+        <link>http://hamhands.github.io/2014/01/01/this-post.html</link>
+        <guid isPermaLink="true">http://hamhands.github.io/2014/01/01/this-post.html</guid>
         
         <category>maps,</category>
         
         <category>projects</category>
->>>>>>> master
         
         
       </item>
