@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Maps
-permalink: /maps/
 ---
+{% gallery galleryname %}
+vernacular.jpg
+{% endgallery %}
