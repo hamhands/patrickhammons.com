@@ -2,15 +2,14 @@
 title: Hamhanded.ly
 email: patrick.t.hammons@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I’m Patrick and mostly I make maps. I like working on projects
+  where I can tell stories with data and teach others how to do the same.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hamhands.github.io" # the base hostname & protocol for your site
+permalink: /:title
 twitter_username: hamhandedly
 github_username:  hamhands
 linkedin_username: pthammons
-permalink: /:title
 
 # Build settings
 markdown: kramdown
