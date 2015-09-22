@@ -845,3 +845,15 @@ pre {
 .thumb {
     margin-bottom: 30px;
 }
+
+/**
+* Forms
+*/
+.city-form {
+    height: 36px;
+    padding: 12px;
+    font-size: 32px;
+    color: $brand-color;
+    line-height: 24px;
+    border: 0px solid #cccccc;
+}
