@@ -2,32 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hamhanded.ly</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Hi, I’m Patrick and mostly I make maps. I like working on projects where I can tell stories with data and teach others how to do the same.
 </description>
     <link>http://hamhands.github.io/</link>
     <atom:link href="http://hamhands.github.io/feed.xml" rel="self" type="application/rss+xml" />
-<<<<<<< Updated upstream
-    <pubDate>Thu, 10 Sep 2015 17:07:27 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 17:07:27 -0400</lastBuildDate>
-=======
-    <pubDate>Thu, 10 Sep 2015 16:47:15 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 16:47:15 -0400</lastBuildDate>
->>>>>>> Stashed changes
+    <pubDate>Mon, 21 Sep 2015 21:24:35 -0400</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2015 21:24:35 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Isle au Haut</title>
-        <description>&lt;p&gt;Map tiles&lt;/p&gt;
+        <title>Code for America Pittsburgh</title>
+        <description>&lt;p&gt;CfA Pittsburgh&lt;/p&gt;
 </description>
-<<<<<<< Updated upstream
-        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://hamhands.github.io/2014/01/01/this-post.html</link>
-        <guid isPermaLink="true">http://hamhands.github.io/2014/01/01/this-post.html</guid>
-=======
-        <pubDate>Wed, 01 May 2013 00:00:00 -0400</pubDate>
-        <link>http://hamhands.github.io/2013/05/01/isle-au-haut.html</link>
-        <guid isPermaLink="true">http://hamhands.github.io/2013/05/01/isle-au-haut.html</guid>
->>>>>>> Stashed changes
+        <pubDate>Tue, 15 Sep 2015 00:00:00 -0400</pubDate>
+        <link>http://hamhands.github.io/code-for-america</link>
+        <guid isPermaLink="true">http://hamhands.github.io/code-for-america</guid>
         
         <category>maps,</category>
         
@@ -41,8 +30,8 @@
         <description>&lt;p&gt;Map tiles&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 May 2013 00:00:00 -0400</pubDate>
-        <link>http://hamhands.github.io/2013/05/01/isle-au-haut.html</link>
-        <guid isPermaLink="true">http://hamhands.github.io/2013/05/01/isle-au-haut.html</guid>
+        <link>http://hamhands.github.io/isle-au-haut</link>
+        <guid isPermaLink="true">http://hamhands.github.io/isle-au-haut</guid>
         
         <category>maps,</category>
         
