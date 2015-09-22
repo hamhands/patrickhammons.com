@@ -2,5 +2,8 @@
 layout: gallery
 title: Maps
 permalink: /maps/
+galleryid: maps
 ---
-Hey these are some maps I made! For more context, check out the <a href="./projects">projects page</a>
+Hey, I assembled some maps. Take a look why don't you?
+
+For more context, check out the <a href="./projects">projects page</a>

@@ -68,9 +68,19 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <h1>Hi, I’m Patrick and mostly I make <a href="../maps/">maps</a>.</h1>
+        <h1>Hi, I’m Patrick and I want to make
+    <select onchange="window.open(this.options[this.selectedIndex].value,'_top')" name="places" class="city-form" ><i class="fa fa-chevron-down"></i>
+        <option value>cities</option>
+        <option value="/cities/philadelphia">Philadelphia</option>
+        <option value="/cities/san-francisco">San Francisco</option>
+        <option value="/cities/pittsburgh">Pittsburgh</option>
+        <option value="/cities/portland">Portland</option>
+        <option value="/national-parks">National Parks</option>
+    </select>
+work better.
+</h1>
 
-<h2>I like working on <a href="../projects/">projects</a> where I can tell stories with data and teach others how to do the same.
+<h2>I like to build stuff. I make <a href="/maps">maps</a>, contribute to <a href="http://www.github.com/hamhands">open source projects</a>, and occasionally write <a href="/words">words</a>.</h2>
 
 <h2>I’ve done some <a href="../resume/">things</a>. Right now I’m a <a href="http://www.codeforamerica.org/governments/pittsburgh/">Code for America Fellow</a>.</h2>
 
