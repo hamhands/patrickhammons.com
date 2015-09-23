@@ -787,7 +787,7 @@ pre {
 * Forms
 */
 .city-form {
-  height: 36px;
+  height: 42px;
   padding: 12px;
   font-size: 32px;
   color: #D36247;
@@ -924,6 +924,10 @@ pre {
 .post-link {
   display: block;
   font-size: 24px; }
+
+.post-preface {
+  font-size: 15.3px;
+  font-style: italic; }
 
 /**
  * Posts

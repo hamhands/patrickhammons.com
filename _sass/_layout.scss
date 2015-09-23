@@ -180,7 +180,10 @@
     font-size: 24px;
 }
 
-
+.post-preface {
+    font-size: $base-font-size * 0.85;
+    font-style: italic
+}
 
 /**
  * Posts
