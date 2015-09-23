@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Isle au Haut
-tags: maps, projects
+city: National Parks
 ---
 
 Map tiles
