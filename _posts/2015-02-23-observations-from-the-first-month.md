@@ -32,7 +32,7 @@ For one, the maximum for any explanatory purchase is capped at $2000. This would
 
 A second pain point is the oversight that accompanies explanatory purchases. Since it was set up to cover petty cash situations, all explanatory purchases have to be signed off by the departmental director, then forwarded to the Office of Management & Budget, then to City Council who approve a long list of explanatory purchases on a weekly basis, all by interoffice mail. Not only is this a lot of work, but it's also a lot of wait:
 
-I’m waiting 2, 3 weeks on life-saving medical equipment every few weeks. My biggest aggravation is sending forms downtown for things that I’ve bought before, and will buy again and again.
+> I’m waiting 2, 3 weeks on life-saving medical equipment every few weeks. My biggest aggravation is sending forms downtown for things that I’ve bought before, and will buy again and again.
 
 As one of our interviewees notes above, the explanatory process is a big source of frustration. While it may not be as locally painful as putting a contract out to bid, the aggregate impact on the system is significant.
 

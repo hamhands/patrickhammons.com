@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>Making Tough Project Decisions in Pittsburgh</title>
+    <meta name="description" content="Hi, I’m Patrick and mostly I make maps. I like working on projects where I can tell stories with data and teach others how to do the same.
+">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://hamhands.github.io/making-tough-project-decisions-in-pittsburgh">
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Hamhanded.ly</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/feed.xml"></a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/css/main.css"></a>
+          
+        
+          
+          <a class="page-link" href="/maps/">Maps</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/projects/">Projects</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/Words/">Words</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h2 class="post-title">Making Tough Project Decisions in Pittsburgh</h2>
+    <p class="post-meta">Apr 30, 2015</p>
+  </header>
+    
+    <p class="post-preface">Triaging and scoping are difficult aspects of developing software with government partners. This post, which originally appeared on the <a href="http://www.codeforamerica.org/blog/2015/04/30/making-tough-project-decisions-in-pittsburgh/">Code for America blog</a> illustrates how we thought about cutting certain products and focusing on others.</p>
+    
+
+  <article class="post-content">
+    <p><img src="/img/ben_fire.jpg" alt="Ben hears from a Fire purchaser" />
+<em>My teammate Ben hears from a purchaser in the Pittsburgh Fire Bureau.</em></p>
+
+<p>After a month of building prototypes and soliciting feedback from our city partners in Pittsburgh, we’ve started to narrow the scope of what we want to build to help change the outdated ways the city buys everything from software to paperclips. Explicitly choosing not just what to work on, but what to stop actively developing is a difficult part of the user-centered design process. It’s also one of the reasons Code for America encourages fellowship teams to start building early, to get testable prototypes in front of users as soon as possible so that the hard work of scoping can happen sooner rather than later.</p>
+
+<p>At the end of <a href="http://www.codeforamerica.org/blog/2015/04/09/3-development-tips-from-team-pittsburgh-2/">Ben’s post</a> outlining the principles behind how we build, he listed five things we’ve built since arriving in January. Since that post was written, we went back to Pittsburgh and put some of those wireframes and early-stage applications in front of city staff, and the feedback was overwhelmingly positive. While this is great news, it also means we had to come up with another filter to help us make some tough decisions.</p>
+
+<h3 id="breadth-depth--lift">Breadth, Depth, &amp; Lift</h3>
+
+<p>To guide our thinking, we adapted a set of metrics we learned from the <a href="http://www.codeforamerica.org/our-work/focus-areas/health/">Code for America health team</a>:</p>
+
+<ul>
+  <li><em>Breadth</em>: how many people are impacted by a given problem?</li>
+  <li><em>Depth</em>: how deeply is the problem is felt?</li>
+  <li><em>Lift</em>: how technically or politically difficult is the fix?</li>
+</ul>
+
+<p>Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting <em>lift</em> into a positive metric, we were able to start thinking in terms of <em>feasibility</em>, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a <a href="http://www.buildpgh.com/beacon">marketing/outreach site</a>, <a href="http://www.buildpgh.com/scout">Wexplorer</a>, <a href="https://github.com/codeforamerica/template-maker">Template Maker</a>, and the <a href="http://www.buildpgh.com/atlas">Pittsburgh Procurement Explorer</a>) and gave them a high, medium, or low value for each category:</p>
+
+<p><img src="/img/project_matrix.png" alt="Project Matrix" />
+<em>Our decision-making metrics and projects, in one chart.</em></p>
+
+<p>With this line of thinking, we opened up a conversation about Template Maker.</p>
+
+<h3 id="rethinking-our-focus-on-documents">Rethinking Our Focus on Documents</h3>
+
+<p>After our initial conversations in February, we saw a huge need for common “templating” for all kinds of procurement documents. So we built a prototype:</p>
+
+<p><img src="/img/template_maker.gif" alt="Template Maker" />
+<em>The functionality of Template Maker in action.</em></p>
+
+<p>With Template Maker, our city partners in the legal department could create a central database of internal procurement documents, which had the potential to transform the entire process. Standardized document templates would become forms, which could remove a lot of the confusion departments face while drafting requests for proposals (RFP), resulting in better documents and less legal back and forth during the final contracting process.</p>
+
+<p>But after looking at our projects using our decision-making categories, <strong>we decided to stop actively developing Template Maker</strong>. Here’s why:</p>
+
+<p>The lift required to bring Template Maker across the finish line is such that we would have to dedicate a majority if not 100 percent of our team’s focus to this single product. Making a <a href="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> editor for procurement documents that doesn’t just work, but is also enjoyable to use is no small feat and ends up replicating much of the same features many of our users already have access to in Microsoft Word or Google Docs. Template Maker also only addresses documents, just one part of the extremely lengthy and involved procurement process. In short, Template Maker would be a large investment for a relatively narrow outcome. By moving our focus off of documents, we can focus on the entire process.</p>
+
+<h3 id="next-directions">Next Directions</h3>
+
+<p>We think we can have a larger impact for a lower lift by focusing more of our technical efforts in and around city purchasing. Here’s where we’re going:</p>
+
+<ul>
+  <li>Expand Wexplorer into a searchable, categorizable, and regularly updated library of current contracts that department purchasers can use as part of their daily workflow.</li>
+  <li>Build a <a href="http://www.buildpgh.com/beacon">central Office of Management &amp; Budget (OMB) site</a> for marketing upcoming contracting opportunities using a combination of data from Wexplorer as well as department-generated content. A <a href="http://pittsburghpa.gov/omb/contract-bids">current site for professional service opportunities exists</a>, but we think having commodity opportunities more actively marketed would deliver value for city departments.</li>
+  <li>Implement a data update workflow that not only helps OMB with shepherding contracts through the extremely complex purchasing process, but also keeps city apps up to date.</li>
+  <li>Move away from document-based solutions and explore alternative ways to guide city departments through the process.</li>
+  <li>Work with the legal team to help craft templates in tools city departments are already using.</li>
+</ul>
+
+<p>We are really excited to see where this readjustment of focus takes us. Stay tuned.</p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper" align="left">
+
+          
+            <a class="fa fa-twitter fa-2x" href="https://twitter.com/hamhandedly"></a>
+          
+
+          
+            <a class="fa fa-github-alt fa-2x" href="https://github.com/hamhands"></a>
+          
+
+          
+            <a class="fa fa-linkedin fa-2x" href="https://linkedin.com/in/pthammons"></a>
+          
+
+          
+            <a class="fa fa-envelope-o fa-2x" href="mailto:patrick.t.hammons@gmail.com"></a>
+          
+
+  </div>
+
+
+</footer>
+
+
+  </body>
+
+</html>
