@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Observations From the First Month
-city: Pittsburgh
+tags: Pittsburgh
 preface: The process of user-centered design and the research it entails fascinated me during my experience as a Code for America Fellow. This transmission from the field outlines some of the main problem areas we identified during our initial research period.
 ---
 ![Shelly and Henry in City Hall](/img/pgh_city_hall.jpg)

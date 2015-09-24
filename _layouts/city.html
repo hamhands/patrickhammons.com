@@ -9,23 +9,30 @@ layout: default
     </header>
     {% for gallery in site.data.maps %}
     {% if gallery.id == page.title %}
-        <h1>Maps</h1>
-        {% for image in gallery.images %}
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
-                <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
-            </a>
-        </div>
-        {% endfor %}
+    <h1>Maps</h1>
+    {% for image in gallery.images %}
+    <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+        <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
+            <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+        </a>
+    </div>
+    {% endfor %}
     {% endif %}
     {% endfor %}
 
+
+    {% for tag in site.tags %}
+    {% if tag[0] == page.title %}
+
+    <h1>Words</h1>
+    <ul class="post-list">
     {% for post in site.posts %}
-    {% if post.city == page.title %}
-        <h1>Words</h1>
-        <ul class="post-list"
-            <li><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></li>
-        </ul>
+        {% if post.tags contains page.title %}
+        <li><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+
     {% endif %}
     {% endfor %}
 

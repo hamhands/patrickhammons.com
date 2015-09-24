@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Tough Project Decisions in Pittsburgh
-city: Pittsburgh
+tags: [Pittsburgh]
 preface: Triaging and scoping are difficult aspects of developing software with government partners. This post, which originally appeared on the <a href="http://www.codeforamerica.org/blog/2015/04/30/making-tough-project-decisions-in-pittsburgh/">Code for America blog</a> illustrates how we thought about cutting certain products and focusing on others.
 ---
 ![Ben hears from a Fire purchaser](/img/ben_fire.jpg)
