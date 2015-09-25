@@ -185,6 +185,12 @@
     font-style: italic
 }
 
+.post-excerpt {
+    font-size: $base-font-size * 0.9;
+    margin-bottom: $spacing-unit
+}
+
+
 /**
  * Posts
  */

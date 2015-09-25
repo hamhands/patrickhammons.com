@@ -3,6 +3,7 @@ layout: post
 title: Making Tough Project Decisions in Pittsburgh
 tags: [Pittsburgh]
 preface: Triaging and scoping are difficult aspects of developing software with government partners. This post, which originally appeared on the <a href="http://www.codeforamerica.org/blog/2015/04/30/making-tough-project-decisions-in-pittsburgh/">Code for America blog</a> illustrates how we thought about cutting certain products and focusing on others.
+excerpt: After a month of building prototypes and soliciting feedback from our city partners in Pittsburgh, we’ve started to narrow the scope of what we want to build to help change the outdated ways the city buys everything from software to paperclips. Explicitly choosing not just what to work on, but what to stop actively developing is a difficult part of the user-centered design process. It’s also one of the reasons Code for America encourages fellowship teams to start building early, to get testable prototypes in front of users as soon as possible so that the hard work of scoping can happen sooner rather than later.
 ---
 ![Ben hears from a Fire purchaser](/img/ben_fire.jpg)
 _My teammate Ben hears from a purchaser in the Pittsburgh Fire Bureau._
