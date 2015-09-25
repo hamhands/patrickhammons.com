@@ -1,4 +1,4 @@
-- id: Maps
+- id: aps
   imagefolder: /img
   cities: [Philadelphia, San Francisco]
   images:
@@ -18,6 +18,10 @@
     thumb: sneckdowns_phl.png
     url: http://hamhands.github.io/Sneckdowns
     city: Philadelphia
+  - text: Population, Rent change Philly
+    thumb: pop_rent_change_phl.png
+    url: https://planphilly.cartodb.com/viz/427a8b9a-79bd-11e4-913c-0e4fddd5de28/public_map
+    city: Philadelphia
   - text: Income change Philly
     thumb: income_change_phl.png
     url: https://planphilly.cartodb.com/viz/d65bbe68-7f00-11e4-aba4-0e018d66dc29/public_map
@@ -26,7 +30,3 @@
     thumb: dem_rent_phl.png
     url: http://cdb.io/1MeH1sU
     city: San Francisco
-  - text: Population, Rent change Philly
-    thumb: pop_rent_change_phl.png
-    url: https://planphilly.cartodb.com/viz/427a8b9a-79bd-11e4-913c-0e4fddd5de28/public_map
-    city: Philadelphia
