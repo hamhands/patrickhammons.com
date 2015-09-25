@@ -37,7 +37,7 @@ layout: default
 
         {% for image in gallery.images %}
             {% if image.city == page.title %}
-            <div class="col-lg-3 col-md-3 col-xs-6">
+            <div class="col-lg-3 col-md-3 col-xs-10">
                 <div class="thumb">
                     <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
                         <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
