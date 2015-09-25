@@ -6,8 +6,8 @@
 </description>
     <link>http://hamhands.github.io/</link>
     <atom:link href="http://hamhands.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 24 Sep 2015 10:18:38 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2015 10:18:38 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2015 21:07:39 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2015 21:07:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,7 +29,7 @@
   &lt;li&gt;&lt;em&gt;Lift&lt;/em&gt;: how technically or politically difficult is the fix?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting &lt;em&gt;lift&lt;/em&gt; into a positive metric, we were able to start thinking in terms of &lt;em&gt;feasibility&lt;/em&gt;, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a &lt;a href=&quot;http://www.buildpgh.com/beacon&quot;&gt;marketing/outreach site&lt;/a&gt;, &lt;a href=&quot;http://www.buildpgh.com/scout&quot;&gt;Wexplorer&lt;/a&gt;, &lt;a href=&quot;https://github.com/codeforamerica/template-maker&quot;&gt;Template Maker&lt;/a&gt;, and the &lt;a href=&quot;http://www.buildpgh.com/atlas&quot;&gt;Pittsburgh Procurement Explorer&lt;/a&gt;) and gave them a high, medium, or low value for each category:&lt;/p&gt;
+&lt;p&gt;Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting &lt;em&gt;lift&lt;/em&gt; into a positive metric, we were able to start thinking in terms of &lt;em&gt;feasibility&lt;/em&gt;, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a &lt;a href=&quot;http://www.buildpgh.com/beacon&quot;&gt;marketing/outreach site&lt;/a&gt;, &lt;a href=&quot;http://www.buildpgh.com/scout&quot;&gt;Wexplorer&lt;/a&gt;, &lt;a href=&quot;https://github.com/codeforamerica/template-maker&quot;&gt;Template Maker&lt;/a&gt;, and the &lt;a href=&quot;http://www.buildpgh.com/sherpa&quot;&gt;Pittsburgh Procurement Explorer&lt;/a&gt;) and gave them a high, medium, or low value for each category:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/project_matrix.png&quot; alt=&quot;Project Matrix&quot; /&gt;
 &lt;em&gt;Our decision-making metrics and projects, in one chart.&lt;/em&gt;&lt;/p&gt;

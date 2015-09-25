@@ -1,27 +1,32 @@
-- id: Philadelphia
+- id: Maps
   imagefolder: /img
-  images:
-  - text: Sneckdowns
-    thumb: sneckdowns_phl.png
-    url: http://hamhands.github.io/Sneckdowns
-  - text: Income change Philly
-    thumb: income_change_phl.png
-    url: https://planphilly.cartodb.com/viz/d65bbe68-7f00-11e4-aba4-0e018d66dc29/public_map
-  - text: Population, Rent change Philly
-    thumb: pop_rent_change_phl.png
-    url: https://planphilly.cartodb.com/viz/427a8b9a-79bd-11e4-913c-0e4fddd5de28/public_map
-  - text: Dem rent change Philly
-    thumb: dem_rent_phl.png
-    url: http://cdb.io/1MeH1sU
-- id: San Francisco
-  imagefolder: /img
+  cities: [Philadelphia, San Francisco]
   images:
   - text: Tenderloin income
     thumb: income_artists_tl.png
     url: http://cdb.io/1DOSGrA
+    city: San Francisco
   - text: TL Artists, Orgs, Murals
     thumb: murals_artists_tl.png
     url: http://cdb.io/1H9eTmH
+    city: San Francisco
   - text: Median rent artists
     thumb: rent_artists_sf.png
     url: http://cdb.io/1P1shPn
+    city: San Francisco
+  - text: Sneckdowns
+    thumb: sneckdowns_phl.png
+    url: http://hamhands.github.io/Sneckdowns
+    city: Philadelphia
+  - text: Income change Philly
+    thumb: income_change_phl.png
+    url: https://planphilly.cartodb.com/viz/d65bbe68-7f00-11e4-aba4-0e018d66dc29/public_map
+    city: Philadelphia
+  - text: Dem rent change Philly
+    thumb: dem_rent_phl.png
+    url: http://cdb.io/1MeH1sU
+    city: San Francisco
+  - text: Population, Rent change Philly
+    thumb: pop_rent_change_phl.png
+    url: https://planphilly.cartodb.com/viz/427a8b9a-79bd-11e4-913c-0e4fddd5de28/public_map
+    city: Philadelphia

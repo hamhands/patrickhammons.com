@@ -19,7 +19,7 @@ To guide our thinking, we adapted a set of metrics we learned from the [Code for
 * _Depth_: how deeply is the problem is felt?
 * _Lift_: how technically or politically difficult is the fix?
 
-Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting _lift_ into a positive metric, we were able to start thinking in terms of _feasibility_, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a [marketing/outreach site](http://www.buildpgh.com/beacon), [Wexplorer](http://www.buildpgh.com/scout), [Template Maker](https://github.com/codeforamerica/template-maker), and the [Pittsburgh Procurement Explorer](http://www.buildpgh.com/atlas)) and gave them a high, medium, or low value for each category:
+Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting _lift_ into a positive metric, we were able to start thinking in terms of _feasibility_, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a [marketing/outreach site](http://www.buildpgh.com/beacon), [Wexplorer](http://www.buildpgh.com/scout), [Template Maker](https://github.com/codeforamerica/template-maker), and the [Pittsburgh Procurement Explorer](http://www.buildpgh.com/sherpa)) and gave them a high, medium, or low value for each category:
 
 ![Project Matrix](/img/project_matrix.png)
 _Our decision-making metrics and projects, in one chart._
