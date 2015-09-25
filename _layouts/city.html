@@ -8,26 +8,7 @@ layout: default
         <h2 class="post-title">{{ page.title }}</h2>
     </header>
 
-    {% for gallery in site.data.maps %}
-
-        {% if gallery.cities contains page.title %}
-        <h1>Maps</h1>
-        {% endif %}
-
-        {% for image in gallery.images %}
-            {% if image.city == page.title %}
-            <div class="col-lg-3 col-md-4 col-xs-6">
-                <div class="thumb">
-                    <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
-                        <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
-                    </a>
-                </div>
-            </div>
-            {% endif %}
-        {% endfor %}
-
-    {% endfor %}
-
+    <div class="wrapper">
     {% for tag in site.tags %}
         {% if tag[0] == page.title %}
 
@@ -46,5 +27,27 @@ layout: default
 
         {% endif %}
     {% endfor %}
+    </div>
+
+    <div class="wrapper">
+    {% for gallery in site.data.maps %}
+        {% if gallery.cities contains page.title %}
+        <h1>Maps</h1>
+        {% endif %}
+
+        {% for image in gallery.images %}
+            {% if image.city == page.title %}
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="thumb">
+                    <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
+                        <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+    {% endfor %}
+    </div>
 
 </div>

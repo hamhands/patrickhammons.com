@@ -6,8 +6,8 @@
 </description>
     <link>http://hamhands.github.io/</link>
     <atom:link href="http://hamhands.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 24 Sep 2015 21:48:03 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2015 21:48:03 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2015 22:23:42 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2015 22:23:42 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -123,6 +123,58 @@
         <guid isPermaLink="true">http://hamhands.github.io/observations-from-the-first-month</guid>
         
         <category>Pittsburgh</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Announcing New Spatial Web Services</title>
+        <description>&lt;p&gt;As has been noted &lt;a href=&quot;http://phillyinnovates.com/2013/08/20/empowering-civic-leaders-neighborhood-heroes/&quot;&gt;on this blog before&lt;/a&gt;, making data available in formats that are easily consumable is an important piece of the larger open data project. Serving up data that can be incorporated into projects quickly and easily not only helps citizenry better understand our world, but provides a connection to government at all levels.&lt;/p&gt;
+
+&lt;p&gt;But open data doesn’t end there. If we are to &lt;a href=&quot;http://phillyinnovates.com/2014/01/14/from-open-data-to-big-data/&quot;&gt;release with intent&lt;/a&gt;, we should consider the consumers of our data the way software developers consider their end-users. What will be done with the data once consumed? How will it be queried? How will it be organized? These questions guide our releases, but perhaps more importantly highlight the need for continual dialogue in providing data that better suits the consumer’s needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/parks_map.jpg&quot; alt=&quot;Philly Parks Map&quot; /&gt;
+&lt;em&gt;Parks map with the newly available State Senate Districts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In answering questions of organization, one of the most effective ways to group large datasets is by spatial boundary. While the lines by which we organize data spatially can often be somewhat subjective, from an administrative standpoint, boundaries have clear significance that can be felt. From collecting taxes, to assigning policing responsibilities, to funding schools, boundaries matter because we as a society say they do.&lt;/p&gt;
+
+&lt;p&gt;Currently, we have a number of &lt;a href=&quot;http://gis.phila.gov/arcgis/rest/services/PhilaOIT-GIS_Boundaries/MapServer&quot;&gt;geographic boundaries&lt;/a&gt; available for public use, including our most recent release of the 2012 &lt;a href=&quot;http://gis.phila.gov/arcgis/rest/services/PhilaOIT-GIS_Boundaries/MapServer/12&quot;&gt;State House&lt;/a&gt;, &lt;a href=&quot;http://gis.phila.gov/arcgis/rest/services/PhilaOIT-GIS_Boundaries/MapServer/13&quot;&gt;State Senatorial&lt;/a&gt;, and &lt;a href=&quot;http://gis.phila.gov/arcgis/rest/services/PhilaOIT-GIS_Boundaries/MapServer/14&quot;&gt;U.S. Congressional Districts&lt;/a&gt;, clipped to the Philadelphia city limits. These services can be mashed up with other geographic data to produce new insights about our city and neighborhoods. From mapping &lt;a href=&quot;http://gis.phila.gov/arcgis/rest/services/PhilaGov/Parks/MapServer&quot;&gt;parks&lt;/a&gt; by congressional district, to counting &lt;a href=&quot;http://gis.phila.gov/ArcGIS/rest/services/PhilaGov/Healthy_Corner_Stores/MapServer&quot;&gt;healthy corner stores&lt;/a&gt; by census tract, the number of projects these services can support is endless. So visit &lt;a href=&quot;http://www.phila.gov/map#id=8f9ba847d9de429db24cfc83d18cf949&quot;&gt;phila.gov/map&lt;/a&gt;, select your region, and start mapping some data!&lt;/p&gt;
+
+&lt;p&gt;Think of something you want to build but can’t find data anywhere? Maybe we’re already working on it, but if not visit opendataphilly and &lt;a href=&quot;http://www.opendataphilly.org/opendata/nominate/?sort=rating_score&amp;amp;dir=desc&quot;&gt;nominate a dataset&lt;/a&gt;. A future release could be closer than you think.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Feb 2014 00:00:00 -0500</pubDate>
+        <link>http://hamhands.github.io/announcing-new-spatial-web-services</link>
+        <guid isPermaLink="true">http://hamhands.github.io/announcing-new-spatial-web-services</guid>
+        
+        <category>Philadelphia</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>From Open Data to Big Data</title>
+        <description>&lt;p&gt;At all levels, &lt;a href=&quot;http://datacatalogs.org/&quot;&gt;governments around the world&lt;/a&gt; are opening their data in order to better engage their citizenry and foster the development of new solutions to long-standing problems. If governments are serious about this mission, and if they want to harness the true power of open data, they must release with intent.&lt;/p&gt;
+
+&lt;p&gt;Since Philadelphia Mayor Michael Nutter adopted a formal open data policy in April of 2012, we at the City of Philadelphia have taken steps to build an effective and durable open data infrastructure. Working with partners in both the private and public sector, we make our data available not only on static datastores, but via dynamic channels, allowing for continued feedback and collaboration. &lt;a href=&quot;http://www.opendataphilly.org/&quot;&gt;OpenDataPhilly&lt;/a&gt;, the portal for open data in Philadelphia, allows users to offer comments, suggest and nominate new datasets, as well as submit project examples. More recently, we have begun to leverage the public software code sharing platform &lt;a href=&quot;https://github.com/cityofphiladelphia&quot;&gt;GitHub&lt;/a&gt; as a new platform for our open data. As we continue to utilize new future, citizens will be able to see how data grows and changes, allowing for another level of transparency and engagement.&lt;/p&gt;
+
+&lt;p&gt;The true power of government data is unlocked when it is used to build new solutions, services, and visualizations. Rather than simply dumping giant sets of data into public repositories, our releases are designed with specific intent – to be readily accessible and digestible so that they can be easily incorporated into any number of different civic projects. Some of our most dynamic datasets are available through a number of &lt;a href=&quot;http://phlapi.com/&quot;&gt;Application Protocol Interfaces (APIs)&lt;/a&gt;, allowing users to quickly retrieve data in as little time as it takes to write a query. These interfaces provide real-time updates, allowing developers to build apps that reflect changes in the data over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/axis_crime.jpg&quot; alt=&quot;AxisPhilly RIP&quot; /&gt;
+&lt;em&gt;AxisPhilly’s Crime Change App is a great example of how city data can be leveraged by the public.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Released in concert with the Philadelphia Police Department, the Philadelphia Crime Data API has proven to be one of our most popular offerings, with the data serving as the platform for solutions built by both government and outside developers from around the Philadelphia region. Axis Philly’s Crime Change Map, built by developer &lt;a href=&quot;https://github.com/caseypt&quot;&gt;Casey Thomas&lt;/a&gt;, shows percent change for different types of crimes by neighborhood over time, allowing for both temporal and spatial comparison. Harnessing the dynamic nature of the API, developer &lt;a href=&quot;https://github.com/davewalk&quot;&gt;David Walk&lt;/a&gt; put together &lt;a href=&quot;http://www.phlcrimemapper.com/&quot;&gt;PHL Crime Mapper&lt;/a&gt;, which allows users to search for all crime incidents by extent and time, with results as current as two days and as old as three years prior. Coming from outside of the city and highlighting the API’s utility to civic hackers, Boston coder &lt;a href=&quot;https://github.com/mapmeld&quot;&gt;Nick Doiron&lt;/a&gt; created a mashup of crime hotspots and Google routing data to show the relative danger of a user-defined walking route. Solutions like these highlight the power of data when it is released with the specific goal of being used.&lt;/p&gt;
+
+&lt;p&gt;Uses of city data such as those mentioned above not only create valuable services for our citizenry, but also greatly inform the work we do in city government. Outside developers and researchers coming from diverse sectors and backgrounds can see new uses for data that we may not have thought of, as those closest to a problem may often miss opportunities for innovation.&lt;/p&gt;
+
+&lt;p&gt;As more of our data is released with the intent that outside developers will make use of it, an added – almost unanticipated – benefit of open data is that we are starting to see opportunities for new internal uses for our data. Our work to make data more usable benefits not only those outside, but data users in other departments and agencies of government. This helps underscore the connection between the work being done on open data and the promise of “big data” to help enable better decisions and investments by government.&lt;/p&gt;
+
+&lt;p&gt;Open data programs help governments think more strategically about how their data is used. This will have ramifications for how those outside government make use of data, and for how we use it ourselves.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://hamhands.github.io/from-open-data-to-big-data</link>
+        <guid isPermaLink="true">http://hamhands.github.io/from-open-data-to-big-data</guid>
+        
+        <category>Philadelphia</category>
         
         
       </item>

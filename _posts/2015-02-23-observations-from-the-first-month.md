@@ -2,7 +2,7 @@
 layout: post
 title: Observations From the First Month
 tags: Pittsburgh
-preface: The process of user-centered design and the research it entails fascinated me during my experience as a Code for America Fellow. This transmission from the field outlines some of the main problem areas we identified during our initial research period.
+preface: This post originally appeared on the <a href="http://www.codeforamerica.org/blog/2015/02/23/observations-from-the-first-month/">Code for America blog</a> during my time as a 2015 Fellow.
 excerpt: We're officially into the final week of our residency month in Pittsburgh! Over the past 3+ weeks we've had the pleasure of meeting a ton of people who deal with purchasing in city government, as well as members of the business community, and have learned a lot about what works well, as well as how the process could be improved. In these conversations, a few common themes have come up that we wanted to pass along.
 ---
 ![Shelly and Henry in City Hall](/img/pgh_city_hall.jpg)
