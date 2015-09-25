@@ -14,7 +14,7 @@ body {
   font-family: Lato, sans-serif;
   font-size: 18px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
   color: #000;
   background-color: #FFFDFD;
   -webkit-text-size-adjust: 100%; }
@@ -112,16 +112,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(900px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(900px - (30px));
+      max-width: calc(900px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -928,6 +928,10 @@ pre {
 .post-preface {
   font-size: 15.3px;
   font-style: italic; }
+
+.post-excerpt {
+  font-size: 16.2px;
+  margin-bottom: 30px; }
 
 /**
  * Posts

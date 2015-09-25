@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: words
 title: Words
-permalink: /Words/
+permalink: /words/
 ---
-
-This is where stuff goes. There will be some, I promise.

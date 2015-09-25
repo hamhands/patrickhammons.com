@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Observations From the First Month
-city: Pittsburgh
-preface: The process of user-centered design and the research it entails fascinated me during my experience as a Code for America Fellow. This transmission from the field outlines some of the main problem areas we identified during our initial research period.
+tags: Pittsburgh
+preface: This post originally appeared on the <a href="http://www.codeforamerica.org/blog/2015/02/23/observations-from-the-first-month/">Code for America blog</a> during my time as a 2015 Fellow.
+excerpt: We're officially into the final week of our residency month in Pittsburgh! Over the past 3+ weeks we've had the pleasure of meeting a ton of people who deal with purchasing in city government, as well as members of the business community, and have learned a lot about what works well, as well as how the process could be improved. In these conversations, a few common themes have come up that we wanted to pass along.
 ---
 ![Shelly and Henry in City Hall](/img/pgh_city_hall.jpg)
 
@@ -32,7 +33,7 @@ For one, the maximum for any explanatory purchase is capped at $2000. This would
 
 A second pain point is the oversight that accompanies explanatory purchases. Since it was set up to cover petty cash situations, all explanatory purchases have to be signed off by the departmental director, then forwarded to the Office of Management & Budget, then to City Council who approve a long list of explanatory purchases on a weekly basis, all by interoffice mail. Not only is this a lot of work, but it's also a lot of wait:
 
-I’m waiting 2, 3 weeks on life-saving medical equipment every few weeks. My biggest aggravation is sending forms downtown for things that I’ve bought before, and will buy again and again.
+> I’m waiting 2, 3 weeks on life-saving medical equipment every few weeks. My biggest aggravation is sending forms downtown for things that I’ve bought before, and will buy again and again.
 
 As one of our interviewees notes above, the explanatory process is a big source of frustration. While it may not be as locally painful as putting a contract out to bid, the aggregate impact on the system is significant.
 

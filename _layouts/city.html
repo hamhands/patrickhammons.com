@@ -7,26 +7,47 @@ layout: default
     <header class="post-header">
         <h2 class="post-title">{{ page.title }}</h2>
     </header>
-    {% for gallery in site.data.maps %}
-    {% if gallery.id == page.title %}
-        <h1>Maps</h1>
-        {% for image in gallery.images %}
-        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
-                <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
-            </a>
-        </div>
-        {% endfor %}
-    {% endif %}
-    {% endfor %}
 
-    {% for post in site.posts %}
-    {% if post.city == page.title %}
+    <div class="wrapper">
+    {% for tag in site.tags %}
+        {% if tag[0] == page.title %}
+
         <h1>Words</h1>
-        <ul class="post-list"
-            <li><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></li>
+        <ul class="post-list">
+            {% for post in site.posts %}
+                {% if post.tags contains page.title %}
+                <div class="post-list">
+                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    <div class="post-meta">{{ post.date | date_to_long_string }}</div>
+                    <div class="post-excerpt">{{ post.excerpt}}</div>
+                </div>
+                {% endif %}
+            {% endfor %}
         </ul>
-    {% endif %}
+
+        {% endif %}
     {% endfor %}
+    </div>
+
+    <div class="wrapper">
+    {% for gallery in site.data.maps %}
+        {% if gallery.cities contains page.title %}
+        <h1>Maps</h1>
+        {% endif %}
+
+        {% for image in gallery.images %}
+            {% if image.city == page.title %}
+            <div class="col-lg-2 col-md-3 col-xs-6">
+                <div class="thumb">
+                    <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
+                        <img class="img-responsive" src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+    {% endfor %}
+    </div>
 
 </div>
