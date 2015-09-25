@@ -1,4 +1,4 @@
-- id: aps
+- id: Maps
   imagefolder: /img
   cities: [Philadelphia, San Francisco]
   images:
