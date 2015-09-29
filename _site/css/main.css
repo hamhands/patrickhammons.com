@@ -791,6 +791,9 @@ pre {
   color: #D36247;
   line-height: 1.5;
   border: 0px solid #cccccc; }
+  @media screen and (max-width: 600px) {
+    .city-form {
+      font-size: 36px; } }
 
 /**
  * Site header
@@ -802,10 +805,16 @@ pre {
 .splash-header {
   font-size: 48px;
   padding-bottom: 24px; }
+  @media screen and (max-width: 600px) {
+    .splash-header {
+      font-size: 32px; } }
 
 .splash-content {
   padding-bottom: 15px;
   font-size: 28px; }
+  @media screen and (max-width: 600px) {
+    .splash-content {
+      font-size: 24px; } }
 
 .site-title {
   font-size: 26px;
