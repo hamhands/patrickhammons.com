@@ -852,4 +852,9 @@ pre {
     color: $brand-color;
     line-height: 1.5;
     border: 0px solid #cccccc;
+
+    @include media-query($on-palm) {
+        font-size: 36px
+    }
+
 }
