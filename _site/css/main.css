@@ -787,11 +787,9 @@ pre {
 * Forms
 */
 .city-form {
-  height: 42px;
-  padding: 12px;
-  font-size: 32px;
+  font-size: 48px;
   color: #D36247;
-  line-height: 24px;
+  line-height: 1.5;
   border: 0px solid #cccccc; }
 
 /**
@@ -800,6 +798,14 @@ pre {
 .site-header {
   min-height: 56px;
   position: relative; }
+
+.splash-header {
+  font-size: 48px;
+  padding-bottom: 24px; }
+
+.splash-content {
+  padding-bottom: 15px;
+  font-size: 28px; }
 
 .site-title {
   font-size: 26px;
