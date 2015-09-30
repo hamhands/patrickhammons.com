@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The Rise and Fall of NAYA Park: The Politics of Vacant Lots and Urban Nature in Portland, Oregon"
+tags: Portland
+preface: For my Master's thesis, I examined the shifting role of an informal green space in a gentrifying neighborhood of Portland, Oregon. Below is just the abstract, but you can get the whole thing <a href="https://etda.libraries.psu.edu/paper/15212/11783">here</a>.
+---
+![Entrance to the former NAYA Park](/img/naya_park.jpg)
+
+This research investigates the role of a contested plot of green space located on private land within a formerly blighted neighborhood in Portland, Oregon. Employing a combination of semi-structured interviews, participant observation, and archival research, this work investigates the physical and symbolic constructions of the park, arguing that they have changed in line with larger neighborhood processes.
+
+Known at one point as NAYA Park, the space has been a [site of contestation](http://www.portlandmercury.com/portland/get-off-my-land/Content?oid=4277173) since around 2005, when those originally responsible for its construction were priced out of the neighborhood. Subjected to increased development pressures in an ascendant neighborhood, the park has continued to be used as a public amenity by [some in the neighborhood](https://www.facebook.com/Save-the-Park-on-N-Mississippi-165988516789470/timeline/), while at the same time remaining private land. Moving from hazard to amenity to contested space as the neighborhood moved from blight to redevelopment, spaces such as NAYA Park exist at an important intersection, providing much of the aforementioned benefits of a public park, while simultaneously being left to the whims of the private real estate market.
+
+Despite political ecology’s traditional emphasis on environmental activism and site-level resource conflict, contestations over vacant lots, green space, and other forms of open space in the city remain under examined in the field. Case studies tend to either treat the city itself as the unit of analysis or predominantly deal with formalized forms of urban nature. Failing to see vacant lots and other undeveloped spaces as crucial spaces of urban nature not only misses much of the story of how both nature and capital is manifest and intersects in the city, but simultaneously glosses over the agency of local actors in shaping their communities. As shown in this work, the implications such informal sites hold for greater understandings of urban nature could be fruitful and warrant further investigation within the field of urban political ecology.
