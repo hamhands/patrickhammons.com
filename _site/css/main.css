@@ -793,7 +793,8 @@ pre {
   border: 0px solid #cccccc; }
   @media screen and (max-width: 600px) {
     .city-form {
-      font-size: 32px; } }
+      font-size: 32px;
+      line-height: 1; } }
 
 /**
  * Site header

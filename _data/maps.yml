@@ -1,6 +1,6 @@
 - id: Maps
   imagefolder: /img
-  cities: [Philadelphia, San Francisco]
+  cities: [Philadelphia, San Francisco, National Parks]
   images:
   - text: Tenderloin income
     thumb: income_artists_tl.png
@@ -30,3 +30,23 @@
     thumb: dem_rent_phl.png
     url: http://cdb.io/1MeH1sU
     city: San Francisco
+  - text: Isle au Haut Roads
+    thumb: isle_au_haut_roads_thumb.png
+    url: /img/isle_au_haut_roads.jpg
+    city: National Parks
+  - text: Isle au Haut
+    thumb: isle_au_haut_thumb.png
+    url: /img/isle_au_haut.jpg
+    city: National Parks
+  - text: Otter Creek Roads
+    thumb: otter_creek_roads_thumb.png
+    url: /img/otter_creek_roads.jpg
+    city: National Parks
+  - text: Otter Creek Vernacular Place Names
+    thumb: otter_creek_vernacular_thumb.png
+    url: /img/otter_creek_vernacular.jpg
+    city: National Parks
+  - text: Parashant Paiute Boundaries
+    thumb: parashant_paiute_thumb.png
+    url: /img/parashant_paiute.jpg
+    city: National Parks
