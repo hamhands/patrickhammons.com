@@ -3,6 +3,8 @@ layout: post
 title: "The Rise and Fall of NAYA Park: The Politics of Vacant Lots and Urban Nature in Portland, Oregon"
 tags: Portland
 preface: For my Master's thesis, I examined the shifting role of an informal green space in a gentrifying neighborhood of Portland, Oregon. Below is just the abstract, but you can get the whole thing <a href="https://etda.libraries.psu.edu/paper/15212/11783">here</a>.
+excerpt: This research investigates the role of a contested plot of green space located on private land within a formerly blighted neighborhood in Portland, Oregon. Employing a combination of semi-structured interviews, participant observation, and archival research, this work investigates the physical and symbolic constructions of the park, arguing that they have changed in line with larger neighborhood processes.
+
 ---
 ![Entrance to the former NAYA Park](/img/naya_park.jpg)
 
