@@ -1,9 +1,8 @@
 # Site settings
 title: Hamhanded.ly
 email: patrick.t.hammons@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m Patrick and mostly I make maps. I like working on projects
-  where I can tell stories with data and teach others how to do the same.
+description: >
+    Hi, I’m Patrick and I'm helping make cities work better.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hamhands.github.io" # the base hostname & protocol for your site
 permalink: /words/:title
