@@ -2,7 +2,7 @@
 title: Hamhanded.ly
 email: patrick.t.hammons@gmail.com
 description: >
-    Hi, I’m Patrick and I'm helping make cities work better.
+    Hi, I’m Patrick Hammons and I'm helping make cities work better.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hamhands.github.io" # the base hostname & protocol for your site
 permalink: /words/:title
