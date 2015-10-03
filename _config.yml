@@ -4,11 +4,12 @@ email: patrick.t.hammons@gmail.com
 description: >
     Hi, I’m Patrick Hammons and I'm helping make cities work better.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hamhands.github.io" # the base hostname & protocol for your site
+url: "http://hamhanded.ly" # the base hostname & protocol for your site
 permalink: /words/:title
 twitter_username: hamhandedly
 github_username:  hamhands
 linkedin_username: pthammons
+feedurl: http://hamhanded.ly
 
 # Build settings
 markdown: kramdown
