@@ -25,6 +25,13 @@
     }
 }
 
+.splash-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: $spacing-unit
+}
+
 .site-title {
     font-size: 26px;
     line-height: 56px;

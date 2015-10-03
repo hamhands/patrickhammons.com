@@ -12,3 +12,5 @@ linkedin_username: pthammons
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap

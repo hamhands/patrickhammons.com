@@ -7,21 +7,34 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <title>Projects</title>
-    <meta name="description" content="Hi, I’m Patrick and mostly I make maps. I like working on projects where I can tell stories with data and teach others how to do the same.
+    <meta name="description" content="Hi, I’m Patrick Hammons and I'm helping make cities work better.
 ">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,900,900italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="http://hamhands.github.io/projects/">
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-68210400-1', 'auto');
-      ga('send', 'pageview');
+        <!-- cycles between images -->
+
+        var images = ['alan_patrick.jpg', 'summit_map_talk.jpg', 'jason_patrick.jpg'];
+
+        $(document).ready(function() {
+
+            $('.splash-image').prepend('<img src="/img/' + images[Math.floor(Math.random() * images.length)] + '">');
+        });
+
+        <!-- analytics -->
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-68210400-1', 'auto');
+        ga('send', 'pageview');
 
     </script>
 </head>
