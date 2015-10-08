@@ -1,6 +1,6 @@
 - id: Projects
   imagefolder: /img
-  cities: [Philadelphia, San Francisco, National Parks, Pittsburgh, Portland]
+  cities: [Philadelphia, San Francisco, Pittsburgh]
   images:
   - text: MaptimePHL
     thumb: maptimephl.png
