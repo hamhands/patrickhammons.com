@@ -9,6 +9,27 @@ layout: default
     </header>
 
     <div class="wrapper">
+    {% for project in site.data.projects %}
+        {% if project.cities contains page.title %}
+        <h1>Projects</h1>
+        {% endif %}
+
+        {% for image in project.images %}
+            {% if image.city == page.title %}
+            <div class="col-lg-3 col-md-3 col-xs-10">
+                <div class="thumb">
+                    <a class="thumbnail" href="{{ image.url }}" title="{{ image.text }}">
+                        <img class="img-responsive" src="{{ project.imagefolder }}/{{ image.thumb }}">
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+    {% endfor %}
+    </div>
+
+    <div class="wrapper">
     {% for tag in site.tags %}
         {% if tag[0] == page.title %}
 

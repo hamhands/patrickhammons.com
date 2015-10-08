@@ -1,0 +1,28 @@
+- id: Projects
+  imagefolder: /img
+  cities: [Philadelphia, San Francisco, National Parks, Pittsburgh, Portland]
+  images:
+  - text: MaptimePHL
+    thumb: maptimephl.png
+    url: http://www.meetup.com/maptimePHL/
+    city: Philadelphia
+  - text: Beacon
+    thumb: beacon.png
+    url: http://www.buildpgh.com/beacon
+    city: Pittsburgh
+  - text: Code for America
+    thumb: CFA_logo_lg.jpg
+    url: http://www.codeforamerica.org/governments/pittsburgh/
+    city: Pittsburgh
+  - text: Wildflowers Institute
+    thumb: wildflowers.png
+    url: http://wildflowers.org/
+    city: San Francisco
+  #- text: National Parks Service
+  #  thumb: nps.png
+  #  url: /projects/national-parks-service
+  #  city: National Parks
+  - text: PlanPhilly
+    thumb: planphilly.png
+    url: https://planphilly.cartodb.com/me
+    city: Philadelphia
