@@ -1,17 +1,20 @@
 ---
 layout: default
 ---
-<div class="post">
+<article class="post" itemscope="" itemtype="http://schema.org/BlogPosting">
+  <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+  <meta itemprop="description"
+        content="{{ content | strip_html | truncatewords: 40 }}" />
 
   <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">{{ page.date | date_to_long_string }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h2 itemprop="headline" class="post-title">{{ page.title }}</h2>
+    <p class="post-meta" itemprop="datePublished">{{ page.date | date_to_long_string }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
     {% if page.preface %}
     <p class="post-preface">{{ page.preface }}</p>
     {% endif %}
 
-  <article class="post-content">
+  <article class="post-content" itemprop="articleBody">
     {{ content }}
   </article>
 
