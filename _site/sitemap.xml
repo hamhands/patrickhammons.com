@@ -1,50 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://hamhanded.ly/words/making-tough-project-decisions-in-pittsburgh</loc>
-    <lastmod>2015-04-30T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/words/observations-from-the-first-month</loc>
-    <lastmod>2015-02-23T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/words/announcing-new-spatial-web-services</loc>
-    <lastmod>2014-02-06T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/words/from-open-data-to-big-data</loc>
-    <lastmod>2014-01-14T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/words/the-rise-and-fall-of-naya-park</loc>
-    <lastmod>2012-08-01T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/maps/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/national-parks/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/cities/philadelphia/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/cities/pittsburgh/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/cities/portland/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/projects/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/cities/san-francisco/</loc>
-  </url>
-  <url>
-    <loc>http://hamhanded.ly/words/</loc>
-  </url>
+<url>
+<loc>http://hamhanded.ly/words/making-tough-project-decisions-in-pittsburgh</loc>
+<lastmod>2015-04-30T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://hamhanded.ly/words/observations-from-the-first-month</loc>
+<lastmod>2015-02-23T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://hamhanded.ly/words/announcing-new-spatial-web-services</loc>
+<lastmod>2014-02-06T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://hamhanded.ly/words/from-open-data-to-big-data</loc>
+<lastmod>2014-01-14T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://hamhanded.ly/words/the-rise-and-fall-of-naya-park</loc>
+<lastmod>2012-08-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://hamhanded.ly/words/civic-tech-problem</loc>
+<lastmod>1859-02-14T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://hamhanded.ly/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/maps/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/national-parks/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/cities/philadelphia/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/cities/pittsburgh/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/cities/portland/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/projects/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/cities/san-francisco/</loc>
+</url>
+<url>
+<loc>http://hamhanded.ly/words/</loc>
+</url>
 </urlset>
