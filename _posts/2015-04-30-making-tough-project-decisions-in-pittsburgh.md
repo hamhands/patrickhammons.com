@@ -20,7 +20,7 @@ To guide our thinking, we adapted a set of metrics we learned from the [Code for
 * _Depth_: how deeply is the problem is felt?
 * _Lift_: how technically or politically difficult is the fix?
 
-Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting _lift_ into a positive metric, we were able to start thinking in terms of _feasibility_, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a [marketing/outreach site](http://www.buildpgh.com/beacon), [Wexplorer](http://www.buildpgh.com/scout), [Template Maker](https://github.com/codeforamerica/template-maker), and the [Pittsburgh Procurement Explorer](http://www.buildpgh.com/sherpa)) and gave them a high, medium, or low value for each category:
+Thinking in these terms helps us prioritize, particularly given the relatively narrow window we have in a fellowship year. Inverting _lift_ into a positive metric, we were able to start thinking in terms of _feasibility_, looking to the likelihood of a successful deployment given both the technical demands as well as the surrounding organizational context. We then took our four major projects (a [marketing/outreach site](http://procurement.pittsburghpa.gov/beacon), [Wexplorer](http://procurement.pittsburghpa.gov/scout), [Template Maker](https://github.com/codeforamerica/template-maker), and the [Pittsburgh Procurement Explorer](https://github.com/codeforamerica/pittsburgh-procurement-explorer)) and gave them a high, medium, or low value for each category:
 
 ![Project Matrix](/img/project_matrix.png)
 _Our decision-making metrics and projects, in one chart._
@@ -45,7 +45,7 @@ The lift required to bring Template Maker across the finish line is such that we
 We think we can have a larger impact for a lower lift by focusing more of our technical efforts in and around city purchasing. Here’s where we’re going:
 
 * Expand Wexplorer into a searchable, categorizable, and regularly updated library of current contracts that department purchasers can use as part of their daily workflow.
-* Build a [central Office of Management & Budget (OMB) site](http://www.buildpgh.com/beacon) for marketing upcoming contracting opportunities using a combination of data from Wexplorer as well as department-generated content. A [current site for professional service opportunities exists](http://pittsburghpa.gov/omb/contract-bids), but we think having commodity opportunities more actively marketed would deliver value for city departments.
+* Build a [central Office of Management & Budget (OMB) site](http://procurement.pittsburghpa.gov/beacon) for marketing upcoming contracting opportunities using a combination of data from Wexplorer as well as department-generated content. A [current site for professional service opportunities exists](http://pittsburghpa.gov/omb/contract-bids), but we think having commodity opportunities more actively marketed would deliver value for city departments.
 * Implement a data update workflow that not only helps OMB with shepherding contracts through the extremely complex purchasing process, but also keeps city apps up to date.
 * Move away from document-based solutions and explore alternative ways to guide city departments through the process.
 * Work with the legal team to help craft templates in tools city departments are already using.

@@ -8,6 +8,7 @@ twitter_username: hamhandedly
 github_username:  hamhands
 linkedin_username: pthammons
 feedurl: http://hamhanded.ly
+future: true;
 
 # Build settings
 markdown: kramdown
