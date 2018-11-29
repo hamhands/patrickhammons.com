@@ -2,12 +2,12 @@
 title: Hamhanded.ly
 email: patrick.t.hammons@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hamhanded.ly" # the base hostname & protocol for your site
+url: "https://hamhanded.ly" # the base hostname & protocol for your site
 permalink: /words/:title
 twitter_username: hamhandedly
 github_username:  hamhands
 linkedin_username: pthammons
-feedurl: http://hamhanded.ly
+feedurl: https://hamhanded.ly
 future: true;
 
 # Build settings
